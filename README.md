@@ -35,4 +35,4 @@ import resurs_bank
 
 client = resurs_bank.ApiClient()
 resp = client.getPaymentMethods();
-```§
+```
